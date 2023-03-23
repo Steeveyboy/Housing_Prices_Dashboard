@@ -1,0 +1,1475 @@
+location,date,total,house,land
+Canada,January 2012,90.8,89.4,93.8
+Canada,February 2012,91.0,89.6,93.9
+Canada,March 2012,91.3,89.9,94.1
+Canada,April 2012,91.5,90.2,94.2
+Canada,May 2012,91.7,90.4,94.4
+Canada,June 2012,91.9,90.7,94.6
+Canada,July 2012,92.0,90.7,94.6
+Canada,August 2012,92.1,90.9,94.6
+Canada,September 2012,92.3,91.1,94.8
+Canada,October 2012,92.5,91.4,94.8
+Canada,November 2012,92.6,91.5,94.8
+Canada,December 2012,92.7,91.7,94.9
+Canada,January 2013,92.8,91.8,95.0
+Canada,February 2013,93.0,91.9,95.2
+Canada,March 2013,93.0,92.0,95.2
+Canada,April 2013,93.2,92.2,95.3
+Canada,May 2013,93.4,92.4,95.4
+Canada,June 2013,93.5,92.5,95.5
+Canada,July 2013,93.6,92.7,95.6
+Canada,August 2013,93.7,92.8,95.7
+Canada,September 2013,93.8,92.8,95.7
+Canada,October 2013,93.8,92.9,95.7
+Canada,November 2013,93.9,92.9,95.8
+Canada,December 2013,93.9,93.0,95.8
+Canada,January 2014,94.1,93.3,95.9
+Canada,February 2014,94.4,93.6,96.0
+Canada,March 2014,94.5,93.7,96.1
+Canada,April 2014,94.7,94.0,96.2
+Canada,May 2014,94.8,94.1,96.3
+Canada,June 2014,94.9,94.3,96.4
+Canada,July 2014,94.9,94.3,96.4
+Canada,August 2014,95.2,94.5,96.6
+Canada,September 2014,95.3,94.6,96.6
+Canada,October 2014,95.4,94.7,96.7
+Canada,November 2014,95.5,94.8,96.8
+Canada,December 2014,95.5,94.9,96.8
+Canada,January 2015,95.5,94.8,96.9
+Canada,February 2015,95.6,95.0,97.0
+Canada,March 2015,95.7,95.0,97.0
+Canada,April 2015,95.7,95.1,97.0
+Canada,May 2015,95.9,95.1,97.6
+Canada,June 2015,96.1,95.3,97.9
+Canada,July 2015,96.2,95.5,97.9
+Canada,August 2015,96.5,95.8,98.0
+Canada,September 2015,96.6,95.9,98.0
+Canada,October 2015,96.8,96.2,98.1
+Canada,November 2015,96.9,96.4,98.1
+Canada,December 2015,97.0,96.5,98.1
+Canada,January 2016,97.1,96.7,98.1
+Canada,February 2016,97.3,97.0,98.1
+Canada,March 2016,97.5,97.2,98.1
+Canada,April 2016,97.7,97.6,98.1
+Canada,May 2016,98.5,98.5,98.5
+Canada,June 2016,98.6,98.5,98.6
+Canada,July 2016,99.0,99.0,98.7
+Canada,August 2016,99.1,99.3,98.7
+Canada,September 2016,99.3,99.3,99.0
+Canada,October 2016,99.7,99.8,99.5
+Canada,November 2016,99.9,99.9,100.0
+Canada,December 2016,100.0,100.0,100.0
+Canada,January 2017,100.1,99.9,100.4
+Canada,February 2017,100.5,100.2,100.9
+Canada,March 2017,100.7,100.4,101.3
+Canada,April 2017,101.5,101.2,102.3
+Canada,May 2017,102.2,101.7,103.1
+Canada,June 2017,102.4,102.1,103.1
+Canada,July 2017,102.8,102.7,103.3
+Canada,August 2017,102.9,102.8,103.3
+Canada,September 2017,103.1,102.9,103.6
+Canada,October 2017,103.2,103.1,103.6
+Canada,November 2017,103.3,103.2,103.6
+Canada,December 2017,103.3,103.2,103.7
+Canada,January 2018,103.3,103.2,103.7
+Canada,February 2018,103.1,102.9,103.8
+Canada,March 2018,103.1,102.9,103.7
+Canada,April 2018,103.1,102.7,103.7
+Canada,May 2018,103.1,102.7,103.8
+Canada,June 2018,103.2,103.0,103.9
+Canada,July 2018,103.3,103.1,103.9
+Canada,August 2018,103.3,103.0,103.9
+Canada,September 2018,103.3,102.9,104.0
+Canada,October 2018,103.3,102.9,104.0
+Canada,November 2018,103.3,102.9,104.1
+Canada,December 2018,103.3,102.9,104.1
+Canada,January 2019,103.2,102.8,104.1
+Canada,February 2019,103.2,102.8,104.1
+Canada,March 2019,103.2,102.8,104.1
+Canada,April 2019,103.2,102.6,104.1
+Canada,May 2019,103.1,102.5,104.2
+Canada,June 2019,103.0,102.4,104.2
+Canada,July 2019,102.9,102.2,104.1
+Canada,August 2019,103.0,102.3,104.2
+Canada,September 2019,103.2,102.6,104.2
+Canada,October 2019,103.3,102.7,104.2
+Canada,November 2019,103.2,102.5,104.3
+Canada,December 2019,103.4,102.8,104.4
+Canada,January 2020,103.4,102.6,104.8
+Canada,February 2020,103.8,103.1,105.0
+Canada,March 2020,104.1,103.5,105.1
+Canada,April 2020,104.1,103.5,105.1
+Canada,May 2020,104.2,103.6,105.1
+Canada,June 2020,104.3,103.7,105.2
+Canada,July 2020,104.7,103.9,105.9
+Canada,August 2020,105.2,104.6,106.3
+Canada,September 2020,106.5,106.1,106.8
+Canada,October 2020,107.3,107.3,107.4
+Canada,November 2020,107.9,108.0,107.8
+Canada,December 2020,108.2,108.3,108.0
+Canada,January 2021,109.0,109.3,108.4
+Canada,February 2021,111.1,111.0,110.1
+Canada,March 2021,112.3,112.4,110.7
+Canada,April 2021,114.4,114.3,112.9
+Canada,May 2021,116.0,116.6,113.4
+Canada,June 2021,116.7,117.9,112.9
+Canada,July 2021,117.2,118.6,113.0
+Canada,August 2021,118.0,119.5,113.5
+Canada,September 2021,118.5,120.1,113.8
+Canada,October 2021,119.6,121.4,114.4
+Canada,November 2021,120.5,122.4,115.1
+Canada,December 2021,120.8,122.9,115.2
+Canada,January 2022,121.9,124.3,115.5
+Canada,February 2022,123.2,126.0,116.1
+Canada,March 2022,124.7,127.9,116.5
+Canada,April 2022,125.1,128.6,116.7
+Canada,May 2022,125.7,129.4,116.8
+Canada,June 2022,125.9,129.6,117.0
+Canada,July 2022,126.0,129.6,117.2
+Canada,August 2022,126.1,129.8,117.2
+Canada,September 2022,126.0,129.7,117.1
+Canada,October 2022,125.7,129.4,116.7
+Canada,November 2022,125.5,129.3,116.6
+Canada,December 2022,125.5,129.2,116.6
+Canada,January 2023,125.2,128.9,116.5
+Canada,February 2023,124.9,128.5,116.4
+Newfoundland and Labrador,January 2012,96.5,97.0,94.7
+Newfoundland and Labrador,February 2012,96.5,97.0,94.7
+Newfoundland and Labrador,March 2012,96.8,97.5,94.8
+Newfoundland and Labrador,April 2012,96.8,97.4,94.8
+Newfoundland and Labrador,May 2012,97.0,97.6,95.0
+Newfoundland and Labrador,June 2012,97.1,97.6,95.3
+Newfoundland and Labrador,July 2012,97.7,98.3,95.6
+Newfoundland and Labrador,August 2012,97.7,98.4,95.6
+Newfoundland and Labrador,September 2012,97.5,98.1,95.6
+Newfoundland and Labrador,October 2012,97.5,98.1,95.6
+Newfoundland and Labrador,November 2012,97.5,98.1,95.6
+Newfoundland and Labrador,December 2012,97.5,98.1,95.6
+Newfoundland and Labrador,January 2013,97.7,98.3,95.7
+Newfoundland and Labrador,February 2013,97.7,98.2,95.7
+Newfoundland and Labrador,March 2013,97.7,98.2,95.7
+Newfoundland and Labrador,April 2013,98.6,99.5,96.1
+Newfoundland and Labrador,May 2013,98.8,99.5,96.6
+Newfoundland and Labrador,June 2013,98.8,99.5,96.6
+Newfoundland and Labrador,July 2013,99.4,100.0,97.6
+Newfoundland and Labrador,August 2013,99.6,100.0,98.3
+Newfoundland and Labrador,September 2013,99.6,100.0,98.3
+Newfoundland and Labrador,October 2013,99.6,100.0,98.3
+Newfoundland and Labrador,November 2013,99.6,100.0,98.5
+Newfoundland and Labrador,December 2013,99.6,100.0,98.5
+Newfoundland and Labrador,January 2014,99.6,100.0,98.5
+Newfoundland and Labrador,February 2014,99.6,100.0,98.3
+Newfoundland and Labrador,March 2014,99.9,100.3,98.5
+Newfoundland and Labrador,April 2014,99.9,100.3,98.5
+Newfoundland and Labrador,May 2014,99.8,100.1,98.6
+Newfoundland and Labrador,June 2014,99.7,100.0,98.6
+Newfoundland and Labrador,July 2014,99.7,100.0,98.6
+Newfoundland and Labrador,August 2014,99.7,100.0,98.6
+Newfoundland and Labrador,September 2014,99.7,100.0,98.6
+Newfoundland and Labrador,October 2014,99.7,100.0,98.6
+Newfoundland and Labrador,November 2014,99.9,100.2,98.9
+Newfoundland and Labrador,December 2014,99.9,100.2,98.9
+Newfoundland and Labrador,January 2015,99.9,100.2,98.9
+Newfoundland and Labrador,February 2015,99.9,100.2,98.9
+Newfoundland and Labrador,March 2015,99.9,100.2,98.9
+Newfoundland and Labrador,April 2015,99.9,100.2,98.9
+Newfoundland and Labrador,May 2015,99.8,99.9,99.2
+Newfoundland and Labrador,June 2015,99.8,99.9,99.2
+Newfoundland and Labrador,July 2015,100.1,100.2,99.4
+Newfoundland and Labrador,August 2015,100.1,100.2,99.4
+Newfoundland and Labrador,September 2015,100.1,100.2,99.4
+Newfoundland and Labrador,October 2015,100.1,100.2,99.4
+Newfoundland and Labrador,November 2015,100.3,100.4,99.7
+Newfoundland and Labrador,December 2015,100.3,100.4,99.7
+Newfoundland and Labrador,January 2016,100.3,100.4,99.7
+Newfoundland and Labrador,February 2016,100.3,100.4,99.9
+Newfoundland and Labrador,March 2016,100.2,100.2,99.9
+Newfoundland and Labrador,April 2016,100.2,100.2,99.9
+Newfoundland and Labrador,May 2016,100.3,100.2,100.1
+Newfoundland and Labrador,June 2016,100.3,100.2,100.1
+Newfoundland and Labrador,July 2016,100.0,99.8,100.1
+Newfoundland and Labrador,August 2016,99.8,99.7,100.0
+Newfoundland and Labrador,September 2016,100.0,100.1,100.0
+Newfoundland and Labrador,October 2016,100.0,100.1,100.0
+Newfoundland and Labrador,November 2016,100.0,100.0,100.0
+Newfoundland and Labrador,December 2016,100.0,100.0,100.0
+Newfoundland and Labrador,January 2017,99.6,99.5,100.0
+Newfoundland and Labrador,February 2017,99.6,99.5,100.0
+Newfoundland and Labrador,March 2017,99.5,99.3,100.0
+Newfoundland and Labrador,April 2017,99.5,99.2,100.0
+Newfoundland and Labrador,May 2017,99.5,99.2,100.0
+Newfoundland and Labrador,June 2017,99.4,99.1,100.0
+Newfoundland and Labrador,July 2017,99.4,99.3,99.8
+Newfoundland and Labrador,August 2017,98.9,98.6,99.8
+Newfoundland and Labrador,September 2017,98.9,98.6,99.8
+Newfoundland and Labrador,October 2017,98.9,98.6,99.8
+Newfoundland and Labrador,November 2017,99.0,98.8,99.8
+Newfoundland and Labrador,December 2017,99.0,98.8,99.8
+Newfoundland and Labrador,January 2018,99.0,98.8,99.8
+Newfoundland and Labrador,February 2018,99.0,98.8,99.8
+Newfoundland and Labrador,March 2018,99.0,98.8,99.8
+Newfoundland and Labrador,April 2018,99.0,98.8,99.8
+Newfoundland and Labrador,May 2018,98.9,98.6,99.8
+Newfoundland and Labrador,June 2018,98.7,98.3,99.8
+Newfoundland and Labrador,July 2018,98.9,98.4,100.1
+Newfoundland and Labrador,August 2018,98.9,98.4,100.1
+Newfoundland and Labrador,September 2018,98.5,97.9,100.1
+Newfoundland and Labrador,October 2018,98.4,97.7,100.1
+Newfoundland and Labrador,November 2018,98.0,97.2,100.1
+Newfoundland and Labrador,December 2018,98.1,97.2,100.1
+Newfoundland and Labrador,January 2019,98.1,97.3,100.1
+Newfoundland and Labrador,February 2019,98.1,97.3,100.1
+Newfoundland and Labrador,March 2019,98.1,97.3,100.1
+Newfoundland and Labrador,April 2019,97.8,96.9,100.1
+Newfoundland and Labrador,May 2019,97.8,96.9,100.1
+Newfoundland and Labrador,June 2019,97.3,96.1,100.1
+Newfoundland and Labrador,July 2019,97.1,95.9,100.1
+Newfoundland and Labrador,August 2019,96.9,95.8,99.7
+Newfoundland and Labrador,September 2019,97.0,95.8,99.8
+Newfoundland and Labrador,October 2019,97.3,96.3,99.8
+Newfoundland and Labrador,November 2019,97.4,96.3,99.9
+Newfoundland and Labrador,December 2019,97.4,96.3,99.9
+Newfoundland and Labrador,January 2020,97.4,96.3,99.9
+Newfoundland and Labrador,February 2020,97.4,96.3,99.9
+Newfoundland and Labrador,March 2020,97.2,96.0,99.9
+Newfoundland and Labrador,April 2020,97.2,96.0,99.9
+Newfoundland and Labrador,May 2020,97.2,96.0,99.9
+Newfoundland and Labrador,June 2020,97.2,96.0,99.9
+Newfoundland and Labrador,July 2020,96.9,95.7,99.7
+Newfoundland and Labrador,August 2020,96.9,95.8,99.7
+Newfoundland and Labrador,September 2020,98.0,97.2,99.9
+Newfoundland and Labrador,October 2020,100.0,100.3,99.9
+Newfoundland and Labrador,November 2020,100.5,101.1,99.9
+Newfoundland and Labrador,December 2020,100.7,101.4,99.9
+Newfoundland and Labrador,January 2021,100.7,101.3,99.9
+Newfoundland and Labrador,February 2021,100.7,101.3,99.9
+Newfoundland and Labrador,March 2021,101.5,102.5,99.9
+Newfoundland and Labrador,April 2021,102.1,103.3,99.9
+Newfoundland and Labrador,May 2021,101.7,102.8,99.9
+Newfoundland and Labrador,June 2021,102.2,103.5,99.9
+Newfoundland and Labrador,July 2021,102.3,103.6,99.9
+Newfoundland and Labrador,August 2021,102.8,103.7,101.8
+Newfoundland and Labrador,September 2021,102.3,103.1,101.8
+Newfoundland and Labrador,October 2021,102.3,103.1,101.8
+Newfoundland and Labrador,November 2021,103.5,104.7,102.4
+Newfoundland and Labrador,December 2021,103.5,104.7,102.4
+Newfoundland and Labrador,January 2022,104.7,106.7,102.4
+Newfoundland and Labrador,February 2022,104.7,106.7,102.4
+Newfoundland and Labrador,March 2022,104.7,106.7,102.4
+Newfoundland and Labrador,April 2022,104.7,106.7,102.4
+Newfoundland and Labrador,May 2022,104.7,106.7,102.4
+Newfoundland and Labrador,June 2022,105.2,107.4,102.4
+Newfoundland and Labrador,July 2022,105.2,107.4,102.4
+Newfoundland and Labrador,August 2022,105.2,107.4,102.4
+Newfoundland and Labrador,September 2022,105.6,108.1,102.4
+Newfoundland and Labrador,October 2022,105.6,108.1,102.4
+Newfoundland and Labrador,November 2022,105.6,108.1,102.4
+Newfoundland and Labrador,December 2022,105.6,108.1,102.4
+Newfoundland and Labrador,January 2023,106.2,108.8,102.4
+Newfoundland and Labrador,February 2023,106.2,108.8,102.4
+Prince Edward Island,January 2012,100.7,101.9,95.1
+Prince Edward Island,February 2012,100.2,101.4,95.1
+Prince Edward Island,March 2012,100.2,101.4,95.1
+Prince Edward Island,April 2012,100.3,101.4,95.6
+Prince Edward Island,May 2012,99.9,100.9,95.6
+Prince Edward Island,June 2012,100.0,101.0,96.0
+Prince Edward Island,July 2012,100.2,101.2,96.0
+Prince Edward Island,August 2012,100.1,101.1,96.0
+Prince Edward Island,September 2012,100.2,101.2,96.0
+Prince Edward Island,October 2012,100.0,101.0,96.0
+Prince Edward Island,November 2012,100.0,101.0,96.0
+Prince Edward Island,December 2012,99.2,100.0,96.0
+Prince Edward Island,January 2013,100.1,101.1,96.0
+Prince Edward Island,February 2013,100.1,101.1,96.0
+Prince Edward Island,March 2013,100.1,101.1,96.0
+Prince Edward Island,April 2013,100.5,101.4,96.3
+Prince Edward Island,May 2013,100.6,101.5,96.7
+Prince Edward Island,June 2013,100.8,101.8,96.7
+Prince Edward Island,July 2013,100.9,101.9,96.7
+Prince Edward Island,August 2013,100.9,101.9,96.7
+Prince Edward Island,September 2013,100.9,101.9,96.7
+Prince Edward Island,October 2013,100.8,101.8,96.7
+Prince Edward Island,November 2013,100.8,101.8,96.7
+Prince Edward Island,December 2013,100.8,101.8,96.7
+Prince Edward Island,January 2014,100.5,101.4,96.7
+Prince Edward Island,February 2014,100.2,100.8,97.4
+Prince Edward Island,March 2014,99.7,100.3,97.4
+Prince Edward Island,April 2014,99.7,100.3,97.4
+Prince Edward Island,May 2014,99.6,100.2,97.4
+Prince Edward Island,June 2014,99.4,99.9,97.4
+Prince Edward Island,July 2014,99.3,99.7,97.4
+Prince Edward Island,August 2014,99.3,99.7,97.4
+Prince Edward Island,September 2014,99.1,99.5,97.4
+Prince Edward Island,October 2014,99.1,99.5,97.4
+Prince Edward Island,November 2014,98.8,99.2,97.4
+Prince Edward Island,December 2014,99.3,99.6,98.0
+Prince Edward Island,January 2015,99.3,99.6,98.0
+Prince Edward Island,February 2015,99.3,99.6,98.0
+Prince Edward Island,March 2015,99.5,99.8,98.5
+Prince Edward Island,April 2015,100.5,100.8,99.4
+Prince Edward Island,May 2015,100.4,100.6,99.4
+Prince Edward Island,June 2015,100.1,100.3,99.4
+Prince Edward Island,July 2015,100.1,100.3,99.4
+Prince Edward Island,August 2015,100.0,100.2,99.4
+Prince Edward Island,September 2015,99.0,99.0,99.4
+Prince Edward Island,October 2015,99.0,99.0,99.4
+Prince Edward Island,November 2015,99.1,99.1,99.4
+Prince Edward Island,December 2015,99.1,99.1,99.4
+Prince Edward Island,January 2016,99.1,99.1,99.4
+Prince Edward Island,February 2016,100.3,100.6,99.4
+Prince Edward Island,March 2016,100.3,100.6,99.4
+Prince Edward Island,April 2016,100.4,100.5,100.0
+Prince Edward Island,May 2016,100.0,100.0,100.0
+Prince Edward Island,June 2016,100.0,100.0,100.0
+Prince Edward Island,July 2016,100.0,100.0,100.0
+Prince Edward Island,August 2016,100.0,100.0,100.0
+Prince Edward Island,September 2016,100.0,100.0,100.0
+Prince Edward Island,October 2016,100.0,100.0,100.0
+Prince Edward Island,November 2016,100.0,100.0,100.0
+Prince Edward Island,December 2016,100.0,100.0,100.0
+Prince Edward Island,January 2017,100.0,100.0,100.0
+Prince Edward Island,February 2017,100.0,100.0,100.0
+Prince Edward Island,March 2017,100.0,100.0,100.0
+Prince Edward Island,April 2017,100.0,100.0,100.0
+Prince Edward Island,May 2017,99.8,99.8,100.0
+Prince Edward Island,June 2017,99.7,99.7,100.0
+Prince Edward Island,July 2017,100.3,100.4,100.0
+Prince Edward Island,August 2017,100.3,100.4,100.0
+Prince Edward Island,September 2017,100.3,100.4,100.0
+Prince Edward Island,October 2017,100.3,100.4,100.0
+Prince Edward Island,November 2017,100.3,100.4,100.0
+Prince Edward Island,December 2017,100.3,100.4,100.0
+Prince Edward Island,January 2018,100.3,100.4,100.0
+Prince Edward Island,February 2018,100.3,100.4,100.0
+Prince Edward Island,March 2018,100.5,100.6,100.1
+Prince Edward Island,April 2018,100.5,100.7,100.1
+Prince Edward Island,May 2018,100.5,100.6,100.1
+Prince Edward Island,June 2018,100.4,100.5,100.1
+Prince Edward Island,July 2018,100.5,100.5,100.2
+Prince Edward Island,August 2018,100.5,100.6,100.2
+Prince Edward Island,September 2018,100.3,100.3,100.2
+Prince Edward Island,October 2018,100.2,100.1,100.2
+Prince Edward Island,November 2018,100.0,99.9,100.2
+Prince Edward Island,December 2018,100.1,100.0,100.2
+Prince Edward Island,January 2019,100.1,100.0,100.2
+Prince Edward Island,February 2019,100.1,100.0,100.2
+Prince Edward Island,March 2019,100.1,100.0,100.2
+Prince Edward Island,April 2019,100.1,100.0,100.2
+Prince Edward Island,May 2019,101.1,101.2,100.2
+Prince Edward Island,June 2019,101.1,101.2,100.2
+Prince Edward Island,July 2019,101.1,101.2,100.2
+Prince Edward Island,August 2019,101.1,101.2,100.2
+Prince Edward Island,September 2019,102.0,102.4,100.2
+Prince Edward Island,October 2019,102.0,102.4,100.2
+Prince Edward Island,November 2019,102.0,102.4,100.2
+Prince Edward Island,December 2019,102.0,102.4,100.2
+Prince Edward Island,January 2020,102.0,102.4,100.2
+Prince Edward Island,February 2020,102.0,102.4,100.2
+Prince Edward Island,March 2020,102.0,102.4,100.2
+Prince Edward Island,April 2020,102.0,102.4,100.2
+Prince Edward Island,May 2020,102.6,103.1,100.3
+Prince Edward Island,June 2020,102.6,103.1,100.3
+Prince Edward Island,July 2020,102.6,103.1,100.3
+Prince Edward Island,August 2020,102.6,103.1,100.3
+Prince Edward Island,September 2020,104.7,105.7,100.4
+Prince Edward Island,October 2020,104.7,105.7,100.4
+Prince Edward Island,November 2020,106.5,107.1,103.3
+Prince Edward Island,December 2020,106.5,107.0,103.3
+Prince Edward Island,January 2021,110.0,111.3,103.3
+Prince Edward Island,February 2021,110.2,111.5,103.3
+Prince Edward Island,March 2021,113.9,116.0,103.3
+Prince Edward Island,April 2021,115.2,117.5,103.3
+Prince Edward Island,May 2021,118.9,121.9,103.3
+Prince Edward Island,June 2021,118.9,121.9,103.3
+Prince Edward Island,July 2021,119.7,123.8,103.3
+Prince Edward Island,August 2021,119.8,123.9,103.3
+Prince Edward Island,September 2021,119.7,123.8,103.3
+Prince Edward Island,October 2021,119.7,123.8,103.3
+Prince Edward Island,November 2021,119.7,123.8,103.3
+Prince Edward Island,December 2021,119.5,123.6,103.1
+Prince Edward Island,January 2022,119.5,123.6,103.1
+Prince Edward Island,February 2022,119.5,123.6,103.1
+Prince Edward Island,March 2022,121.3,125.5,104.5
+Prince Edward Island,April 2022,121.3,125.5,104.5
+Prince Edward Island,May 2022,121.3,125.5,104.5
+Prince Edward Island,June 2022,122.5,126.9,104.5
+Prince Edward Island,July 2022,122.8,127.3,104.5
+Prince Edward Island,August 2022,122.8,127.3,104.5
+Prince Edward Island,September 2022,122.6,127.0,104.5
+Prince Edward Island,October 2022,122.6,127.0,104.5
+Prince Edward Island,November 2022,122.6,127.0,104.5
+Prince Edward Island,December 2022,122.6,127.0,104.5
+Prince Edward Island,January 2023,122.6,127.0,104.5
+Prince Edward Island,February 2023,122.6,127.0,104.5
+Nova Scotia,January 2012,93.9,93.1,96.6
+Nova Scotia,February 2012,95.0,94.6,96.6
+Nova Scotia,March 2012,95.0,94.6,96.6
+Nova Scotia,April 2012,95.0,94.7,96.6
+Nova Scotia,May 2012,95.2,94.8,96.6
+Nova Scotia,June 2012,95.0,94.6,96.6
+Nova Scotia,July 2012,95.5,95.3,96.6
+Nova Scotia,August 2012,95.9,95.6,96.9
+Nova Scotia,September 2012,95.8,95.5,96.9
+Nova Scotia,October 2012,95.8,95.5,96.9
+Nova Scotia,November 2012,96.3,96.1,97.3
+Nova Scotia,December 2012,96.5,96.3,97.3
+Nova Scotia,January 2013,96.6,96.5,97.3
+Nova Scotia,February 2013,97.6,97.4,98.1
+Nova Scotia,March 2013,97.6,97.4,98.1
+Nova Scotia,April 2013,97.6,97.4,98.1
+Nova Scotia,May 2013,97.9,97.9,98.1
+Nova Scotia,June 2013,97.8,97.8,98.1
+Nova Scotia,July 2013,98.2,98.2,98.3
+Nova Scotia,August 2013,98.1,98.0,98.3
+Nova Scotia,September 2013,98.2,98.2,98.3
+Nova Scotia,October 2013,98.2,98.3,98.3
+Nova Scotia,November 2013,98.2,98.3,98.3
+Nova Scotia,December 2013,98.1,98.1,98.3
+Nova Scotia,January 2014,98.1,98.1,98.3
+Nova Scotia,February 2014,98.0,98.0,98.3
+Nova Scotia,March 2014,98.1,98.2,98.3
+Nova Scotia,April 2014,98.1,98.1,98.3
+Nova Scotia,May 2014,98.1,98.1,98.3
+Nova Scotia,June 2014,98.0,98.0,98.3
+Nova Scotia,July 2014,98.0,97.9,98.3
+Nova Scotia,August 2014,98.0,97.9,98.3
+Nova Scotia,September 2014,98.3,98.3,98.5
+Nova Scotia,October 2014,98.4,98.4,98.5
+Nova Scotia,November 2014,98.4,98.4,98.5
+Nova Scotia,December 2014,98.4,98.4,98.5
+Nova Scotia,January 2015,98.4,98.4,98.5
+Nova Scotia,February 2015,98.8,98.8,99.3
+Nova Scotia,March 2015,98.9,98.8,99.3
+Nova Scotia,April 2015,98.9,98.8,99.3
+Nova Scotia,May 2015,99.0,98.9,99.3
+Nova Scotia,June 2015,99.1,99.2,99.3
+Nova Scotia,July 2015,99.0,99.0,99.3
+Nova Scotia,August 2015,99.0,99.0,99.3
+Nova Scotia,September 2015,99.0,99.0,99.3
+Nova Scotia,October 2015,99.1,99.2,99.3
+Nova Scotia,November 2015,98.7,98.6,99.3
+Nova Scotia,December 2015,98.9,98.8,99.3
+Nova Scotia,January 2016,98.9,98.8,99.3
+Nova Scotia,February 2016,98.9,98.8,99.3
+Nova Scotia,March 2016,98.9,98.8,99.3
+Nova Scotia,April 2016,98.9,98.8,99.3
+Nova Scotia,May 2016,99.0,98.9,99.3
+Nova Scotia,June 2016,99.0,98.9,99.3
+Nova Scotia,July 2016,99.3,99.3,99.3
+Nova Scotia,August 2016,99.3,99.3,99.3
+Nova Scotia,September 2016,99.3,99.1,100.0
+Nova Scotia,October 2016,99.8,99.7,100.0
+Nova Scotia,November 2016,100.0,100.0,100.0
+Nova Scotia,December 2016,100.0,100.0,100.0
+Nova Scotia,January 2017,100.2,100.2,100.0
+Nova Scotia,February 2017,100.2,100.2,100.0
+Nova Scotia,March 2017,100.2,100.3,100.0
+Nova Scotia,April 2017,100.0,100.0,99.9
+Nova Scotia,May 2017,100.4,100.6,99.9
+Nova Scotia,June 2017,100.4,100.6,99.9
+Nova Scotia,July 2017,100.8,101.0,99.9
+Nova Scotia,August 2017,100.7,100.9,99.9
+Nova Scotia,September 2017,100.8,101.0,99.9
+Nova Scotia,October 2017,101.1,101.4,99.9
+Nova Scotia,November 2017,101.1,101.4,99.9
+Nova Scotia,December 2017,101.0,101.3,99.9
+Nova Scotia,January 2018,101.0,101.3,99.9
+Nova Scotia,February 2018,101.0,101.3,99.9
+Nova Scotia,March 2018,101.5,101.8,100.2
+Nova Scotia,April 2018,101.9,102.3,100.2
+Nova Scotia,May 2018,101.8,102.2,100.2
+Nova Scotia,June 2018,101.8,102.2,100.2
+Nova Scotia,July 2018,102.0,102.5,100.2
+Nova Scotia,August 2018,102.0,102.5,100.2
+Nova Scotia,September 2018,101.7,102.2,100.2
+Nova Scotia,October 2018,101.6,102.0,100.2
+Nova Scotia,November 2018,101.6,102.0,100.2
+Nova Scotia,December 2018,101.6,102.0,100.2
+Nova Scotia,January 2019,101.9,102.4,100.2
+Nova Scotia,February 2019,102.1,102.6,100.2
+Nova Scotia,March 2019,102.1,102.6,100.2
+Nova Scotia,April 2019,102.1,102.6,100.2
+Nova Scotia,May 2019,102.5,103.2,100.2
+Nova Scotia,June 2019,102.5,103.2,100.2
+Nova Scotia,July 2019,102.7,103.4,100.2
+Nova Scotia,August 2019,102.5,103.2,100.0
+Nova Scotia,September 2019,102.5,103.2,100.0
+Nova Scotia,October 2019,102.5,103.2,100.0
+Nova Scotia,November 2019,102.5,103.2,100.0
+Nova Scotia,December 2019,102.5,103.2,100.0
+Nova Scotia,January 2020,102.9,103.7,100.0
+Nova Scotia,February 2020,103.6,104.5,100.0
+Nova Scotia,March 2020,103.8,104.5,101.2
+Nova Scotia,April 2020,103.9,104.7,101.2
+Nova Scotia,May 2020,104.4,105.3,101.2
+Nova Scotia,June 2020,104.9,105.8,101.7
+Nova Scotia,July 2020,105.4,106.4,101.6
+Nova Scotia,August 2020,107.1,108.1,103.7
+Nova Scotia,September 2020,108.0,109.3,103.7
+Nova Scotia,October 2020,109.3,111.0,103.6
+Nova Scotia,November 2020,110.1,112.2,103.6
+Nova Scotia,December 2020,110.1,112.2,103.6
+Nova Scotia,January 2021,110.1,112.2,103.6
+Nova Scotia,February 2021,112.7,115.5,103.6
+Nova Scotia,March 2021,113.8,117.0,103.6
+Nova Scotia,April 2021,116.0,120.0,103.5
+Nova Scotia,May 2021,117.8,122.3,103.5
+Nova Scotia,June 2021,117.8,122.3,103.5
+Nova Scotia,July 2021,117.8,122.3,103.5
+Nova Scotia,August 2021,117.8,122.3,103.5
+Nova Scotia,September 2021,117.8,122.3,103.5
+Nova Scotia,October 2021,117.8,122.3,103.5
+Nova Scotia,November 2021,117.8,122.3,103.5
+Nova Scotia,December 2021,117.8,122.3,103.5
+Nova Scotia,January 2022,117.8,122.3,103.5
+Nova Scotia,February 2022,117.8,122.3,103.5
+Nova Scotia,March 2022,119.1,123.9,103.5
+Nova Scotia,April 2022,119.1,123.9,103.5
+Nova Scotia,May 2022,122.0,127.5,103.5
+Nova Scotia,June 2022,122.0,127.5,103.5
+Nova Scotia,July 2022,122.0,127.5,103.5
+Nova Scotia,August 2022,122.0,127.5,103.5
+Nova Scotia,September 2022,122.0,127.5,103.5
+Nova Scotia,October 2022,122.0,127.5,103.5
+Nova Scotia,November 2022,122.0,127.5,103.5
+Nova Scotia,December 2022,122.0,127.5,103.5
+Nova Scotia,January 2023,121.6,127.0,103.5
+Nova Scotia,February 2023,121.6,127.0,103.5
+New Brunswick,January 2012,98.4,98.7,98.6
+New Brunswick,February 2012,98.1,98.2,98.6
+New Brunswick,March 2012,98.1,98.2,98.6
+New Brunswick,April 2012,98.1,98.1,99.1
+New Brunswick,May 2012,97.9,97.9,99.1
+New Brunswick,June 2012,97.9,97.9,99.1
+New Brunswick,July 2012,97.8,97.7,99.1
+New Brunswick,August 2012,97.9,97.8,99.1
+New Brunswick,September 2012,98.3,98.0,100.0
+New Brunswick,October 2012,98.3,98.1,100.0
+New Brunswick,November 2012,98.1,97.8,100.0
+New Brunswick,December 2012,98.1,97.8,100.0
+New Brunswick,January 2013,98.0,97.7,100.0
+New Brunswick,February 2013,98.2,97.9,100.0
+New Brunswick,March 2013,98.4,98.1,100.0
+New Brunswick,April 2013,98.3,98.0,100.0
+New Brunswick,May 2013,98.4,98.2,100.0
+New Brunswick,June 2013,98.4,98.2,100.0
+New Brunswick,July 2013,98.4,98.2,100.0
+New Brunswick,August 2013,98.4,98.2,100.0
+New Brunswick,September 2013,98.4,98.2,100.0
+New Brunswick,October 2013,98.5,98.2,100.0
+New Brunswick,November 2013,98.5,98.3,100.0
+New Brunswick,December 2013,98.4,98.2,100.0
+New Brunswick,January 2014,98.4,98.2,100.0
+New Brunswick,February 2014,98.3,98.1,100.0
+New Brunswick,March 2014,98.3,98.1,100.0
+New Brunswick,April 2014,98.5,98.3,100.0
+New Brunswick,May 2014,98.5,98.3,100.0
+New Brunswick,June 2014,98.5,98.2,100.0
+New Brunswick,July 2014,98.3,98.1,100.0
+New Brunswick,August 2014,98.1,97.7,100.0
+New Brunswick,September 2014,98.1,97.7,100.0
+New Brunswick,October 2014,98.1,97.7,100.0
+New Brunswick,November 2014,98.0,97.7,100.0
+New Brunswick,December 2014,98.0,97.7,100.0
+New Brunswick,January 2015,98.0,97.7,100.0
+New Brunswick,February 2015,98.0,97.7,100.0
+New Brunswick,March 2015,97.8,97.4,100.0
+New Brunswick,April 2015,97.8,97.4,100.0
+New Brunswick,May 2015,97.8,97.4,100.0
+New Brunswick,June 2015,98.2,97.8,100.0
+New Brunswick,July 2015,98.3,98.0,100.0
+New Brunswick,August 2015,98.3,98.0,100.0
+New Brunswick,September 2015,98.3,98.0,100.0
+New Brunswick,October 2015,98.3,98.0,100.0
+New Brunswick,November 2015,98.4,98.2,100.0
+New Brunswick,December 2015,98.4,98.2,100.0
+New Brunswick,January 2016,98.3,98.0,100.0
+New Brunswick,February 2016,98.3,98.0,100.0
+New Brunswick,March 2016,98.3,98.0,100.0
+New Brunswick,April 2016,98.3,98.0,100.0
+New Brunswick,May 2016,98.3,98.0,100.0
+New Brunswick,June 2016,98.3,98.0,100.0
+New Brunswick,July 2016,98.3,98.0,100.0
+New Brunswick,August 2016,98.4,98.1,100.0
+New Brunswick,September 2016,99.7,99.6,100.0
+New Brunswick,October 2016,100.0,100.0,100.0
+New Brunswick,November 2016,100.0,100.0,100.0
+New Brunswick,December 2016,100.0,100.0,100.0
+New Brunswick,January 2017,100.2,100.2,100.0
+New Brunswick,February 2017,100.1,100.0,100.0
+New Brunswick,March 2017,100.1,100.0,100.0
+New Brunswick,April 2017,100.1,100.0,100.0
+New Brunswick,May 2017,100.1,100.0,100.0
+New Brunswick,June 2017,100.1,100.0,100.0
+New Brunswick,July 2017,100.5,100.5,100.0
+New Brunswick,August 2017,100.5,100.5,100.0
+New Brunswick,September 2017,100.5,100.5,100.0
+New Brunswick,October 2017,100.5,100.5,100.0
+New Brunswick,November 2017,100.8,100.9,100.0
+New Brunswick,December 2017,101.0,101.1,100.0
+New Brunswick,January 2018,101.2,101.3,100.0
+New Brunswick,February 2018,101.2,101.3,100.0
+New Brunswick,March 2018,101.2,101.3,100.0
+New Brunswick,April 2018,101.1,101.2,100.0
+New Brunswick,May 2018,101.1,101.2,100.0
+New Brunswick,June 2018,101.1,101.2,100.0
+New Brunswick,July 2018,100.9,101.0,100.0
+New Brunswick,August 2018,101.1,101.2,100.0
+New Brunswick,September 2018,101.1,101.2,100.0
+New Brunswick,October 2018,100.9,100.9,100.0
+New Brunswick,November 2018,100.9,100.9,100.0
+New Brunswick,December 2018,100.9,100.9,100.0
+New Brunswick,January 2019,100.9,100.9,100.0
+New Brunswick,February 2019,100.9,100.9,100.0
+New Brunswick,March 2019,100.9,100.9,100.0
+New Brunswick,April 2019,100.9,101.0,100.0
+New Brunswick,May 2019,100.9,101.0,100.0
+New Brunswick,June 2019,100.9,101.0,100.0
+New Brunswick,July 2019,101.6,101.8,100.1
+New Brunswick,August 2019,102.1,102.3,100.1
+New Brunswick,September 2019,102.5,102.7,100.4
+New Brunswick,October 2019,102.5,102.7,100.4
+New Brunswick,November 2019,102.5,102.7,100.4
+New Brunswick,December 2019,102.7,102.8,101.6
+New Brunswick,January 2020,102.7,102.8,101.6
+New Brunswick,February 2020,102.7,102.8,101.6
+New Brunswick,March 2020,103.0,103.1,101.6
+New Brunswick,April 2020,103.2,103.4,101.6
+New Brunswick,May 2020,103.2,103.4,101.6
+New Brunswick,June 2020,103.2,103.4,101.6
+New Brunswick,July 2020,103.2,103.4,101.6
+New Brunswick,August 2020,103.2,103.4,101.6
+New Brunswick,September 2020,104.2,104.5,101.6
+New Brunswick,October 2020,104.2,104.5,101.6
+New Brunswick,November 2020,104.2,104.5,101.6
+New Brunswick,December 2020,104.2,104.5,101.6
+New Brunswick,January 2021,104.2,104.4,101.6
+New Brunswick,February 2021,105.5,105.9,102.0
+New Brunswick,March 2021,108.5,109.4,102.0
+New Brunswick,April 2021,110.2,111.3,102.1
+New Brunswick,May 2021,109.4,110.2,102.3
+New Brunswick,June 2021,111.1,110.8,102.5
+New Brunswick,July 2021,112.2,112.2,102.5
+New Brunswick,August 2021,114.1,114.6,102.5
+New Brunswick,September 2021,114.1,114.6,102.5
+New Brunswick,October 2021,114.2,114.7,102.5
+New Brunswick,November 2021,114.2,114.7,102.5
+New Brunswick,December 2021,115.5,116.2,102.5
+New Brunswick,January 2022,115.5,116.2,102.5
+New Brunswick,February 2022,117.9,119.1,102.5
+New Brunswick,March 2022,117.9,119.1,102.5
+New Brunswick,April 2022,119.5,121.1,102.5
+New Brunswick,May 2022,119.5,121.1,102.5
+New Brunswick,June 2022,119.5,121.1,102.5
+New Brunswick,July 2022,119.5,121.1,102.5
+New Brunswick,August 2022,119.5,121.1,102.5
+New Brunswick,September 2022,119.5,121.1,102.5
+New Brunswick,October 2022,119.5,121.1,102.5
+New Brunswick,November 2022,119.5,121.1,102.5
+New Brunswick,December 2022,119.5,121.1,102.5
+New Brunswick,January 2023,119.5,121.1,102.5
+New Brunswick,February 2023,119.5,121.1,102.5
+Quebec,January 2012,96.8,96.6,97.8
+Quebec,February 2012,97.0,96.8,98.0
+Quebec,March 2012,97.2,97.0,98.1
+Quebec,April 2012,97.2,97.0,98.1
+Quebec,May 2012,97.3,97.1,98.2
+Quebec,June 2012,97.4,97.2,98.2
+Quebec,July 2012,97.5,97.3,98.2
+Quebec,August 2012,97.7,97.5,98.3
+Quebec,September 2012,97.7,97.5,98.3
+Quebec,October 2012,98.0,98.0,98.3
+Quebec,November 2012,98.2,98.2,98.3
+Quebec,December 2012,98.2,98.2,98.3
+Quebec,January 2013,98.2,98.2,98.3
+Quebec,February 2013,98.3,98.3,98.4
+Quebec,March 2013,98.3,98.3,98.4
+Quebec,April 2013,98.2,98.2,98.4
+Quebec,May 2013,98.4,98.6,98.4
+Quebec,June 2013,98.6,98.7,98.4
+Quebec,July 2013,98.5,98.7,98.4
+Quebec,August 2013,98.6,98.7,98.6
+Quebec,September 2013,98.6,98.6,98.7
+Quebec,October 2013,98.6,98.7,98.7
+Quebec,November 2013,98.7,98.8,98.7
+Quebec,December 2013,98.7,98.8,98.8
+Quebec,January 2014,98.8,98.8,98.8
+Quebec,February 2014,98.8,98.9,98.8
+Quebec,March 2014,98.8,98.8,98.8
+Quebec,April 2014,98.8,98.9,98.8
+Quebec,May 2014,98.9,99.0,98.8
+Quebec,June 2014,98.9,98.9,98.9
+Quebec,July 2014,98.9,98.9,99.0
+Quebec,August 2014,98.9,98.9,99.0
+Quebec,September 2014,98.7,98.7,99.0
+Quebec,October 2014,98.8,98.7,99.0
+Quebec,November 2014,98.8,98.8,99.0
+Quebec,December 2014,98.7,98.6,99.0
+Quebec,January 2015,98.8,98.7,99.1
+Quebec,February 2015,99.0,98.9,99.2
+Quebec,March 2015,99.0,99.0,99.2
+Quebec,April 2015,98.9,98.9,99.2
+Quebec,May 2015,98.7,98.6,99.2
+Quebec,June 2015,98.7,98.6,99.2
+Quebec,July 2015,98.9,98.8,99.2
+Quebec,August 2015,99.0,98.9,99.2
+Quebec,September 2015,99.1,98.9,99.7
+Quebec,October 2015,99.1,98.9,99.7
+Quebec,November 2015,99.4,99.3,99.7
+Quebec,December 2015,99.4,99.2,99.7
+Quebec,January 2016,99.4,99.2,99.7
+Quebec,February 2016,99.5,99.5,99.7
+Quebec,March 2016,99.6,99.5,99.7
+Quebec,April 2016,99.6,99.6,99.7
+Quebec,May 2016,99.6,99.6,99.8
+Quebec,June 2016,99.6,99.6,99.8
+Quebec,July 2016,99.7,99.6,99.8
+Quebec,August 2016,99.7,99.6,99.8
+Quebec,September 2016,100.0,100.0,100.0
+Quebec,October 2016,100.0,100.0,100.0
+Quebec,November 2016,100.0,100.0,100.0
+Quebec,December 2016,100.0,100.0,100.0
+Quebec,January 2017,100.1,100.1,100.1
+Quebec,February 2017,100.3,100.3,100.3
+Quebec,March 2017,100.2,100.2,100.3
+Quebec,April 2017,100.3,100.3,100.3
+Quebec,May 2017,100.4,100.4,100.3
+Quebec,June 2017,100.5,100.5,100.3
+Quebec,July 2017,100.7,100.7,100.5
+Quebec,August 2017,100.7,100.7,100.5
+Quebec,September 2017,100.8,101.0,100.5
+Quebec,October 2017,101.0,101.2,100.5
+Quebec,November 2017,101.1,101.3,100.5
+Quebec,December 2017,101.1,101.3,100.5
+Quebec,January 2018,101.4,101.6,100.6
+Quebec,February 2018,101.8,102.1,100.8
+Quebec,March 2018,101.8,102.1,100.9
+Quebec,April 2018,101.9,102.2,100.9
+Quebec,May 2018,101.9,102.3,101.0
+Quebec,June 2018,102.6,103.0,101.6
+Quebec,July 2018,102.7,103.1,101.6
+Quebec,August 2018,103.0,103.4,101.8
+Quebec,September 2018,103.1,103.5,101.8
+Quebec,October 2018,103.2,103.7,102.1
+Quebec,November 2018,103.5,104.0,102.1
+Quebec,December 2018,103.5,104.0,102.1
+Quebec,January 2019,103.6,104.1,102.1
+Quebec,February 2019,103.6,104.2,102.1
+Quebec,March 2019,103.7,104.3,102.1
+Quebec,April 2019,103.8,104.4,102.1
+Quebec,May 2019,104.0,104.6,102.3
+Quebec,June 2019,104.3,105.0,102.3
+Quebec,July 2019,105.4,106.6,102.3
+Quebec,August 2019,106.3,107.6,102.8
+Quebec,September 2019,106.8,108.2,103.3
+Quebec,October 2019,107.5,109.1,103.5
+Quebec,November 2019,108.4,110.2,103.5
+Quebec,December 2019,108.6,110.4,103.8
+Quebec,January 2020,108.8,110.7,103.8
+Quebec,February 2020,109.5,111.2,104.7
+Quebec,March 2020,110.1,112.1,104.8
+Quebec,April 2020,110.3,112.3,104.9
+Quebec,May 2020,110.3,112.3,104.9
+Quebec,June 2020,110.7,112.7,104.9
+Quebec,July 2020,111.1,113.4,104.9
+Quebec,August 2020,111.8,113.6,106.4
+Quebec,September 2020,112.7,114.8,106.4
+Quebec,October 2020,115.2,116.8,110.5
+Quebec,November 2020,116.7,118.7,110.5
+Quebec,December 2020,117.5,119.8,110.5
+Quebec,January 2021,117.8,120.1,110.9
+Quebec,February 2021,118.8,121.5,111.0
+Quebec,March 2021,120.5,123.8,111.0
+Quebec,April 2021,127.2,131.2,115.7
+Quebec,May 2021,128.6,133.2,115.7
+Quebec,June 2021,129.5,134.4,115.9
+Quebec,July 2021,130.1,135.8,116.0
+Quebec,August 2021,131.4,137.0,117.4
+Quebec,September 2021,133.3,139.4,117.4
+Quebec,October 2021,133.6,139.9,117.5
+Quebec,November 2021,134.8,141.3,118.1
+Quebec,December 2021,135.3,141.9,118.5
+Quebec,January 2022,135.6,142.2,118.6
+Quebec,February 2022,137.4,144.4,119.0
+Quebec,March 2022,140.9,148.3,120.5
+Quebec,April 2022,140.5,147.8,120.5
+Quebec,May 2022,141.6,149.3,120.5
+Quebec,June 2022,141.5,149.2,120.5
+Quebec,July 2022,141.4,149.0,120.5
+Quebec,August 2022,141.5,149.1,120.5
+Quebec,September 2022,141.3,149.0,120.3
+Quebec,October 2022,141.9,149.7,120.5
+Quebec,November 2022,141.4,149.2,120.2
+Quebec,December 2022,141.7,149.5,120.2
+Quebec,January 2023,141.7,149.5,120.2
+Quebec,February 2023,141.5,149.4,120.2
+Ontario,January 2012,85.5,82.6,91.8
+Ontario,February 2012,85.9,83.0,91.8
+Ontario,March 2012,86.3,83.5,92.1
+Ontario,April 2012,86.5,83.8,92.1
+Ontario,May 2012,86.9,84.3,92.4
+Ontario,June 2012,87.2,84.7,92.7
+Ontario,July 2012,87.3,84.7,92.7
+Ontario,August 2012,87.5,84.9,92.9
+Ontario,September 2012,87.8,85.3,93.1
+Ontario,October 2012,88.0,85.6,93.1
+Ontario,November 2012,88.2,85.9,93.2
+Ontario,December 2012,88.4,86.1,93.3
+Ontario,January 2013,88.5,86.3,93.3
+Ontario,February 2013,88.5,86.1,93.4
+Ontario,March 2013,88.6,86.2,93.5
+Ontario,April 2013,88.7,86.3,93.5
+Ontario,May 2013,88.8,86.5,93.6
+Ontario,June 2013,88.8,86.5,93.6
+Ontario,July 2013,89.0,86.7,93.6
+Ontario,August 2013,89.1,86.8,93.7
+Ontario,September 2013,89.1,86.8,93.7
+Ontario,October 2013,89.2,86.9,93.7
+Ontario,November 2013,89.3,87.1,93.7
+Ontario,December 2013,89.4,87.3,93.8
+Ontario,January 2014,89.5,87.4,93.8
+Ontario,February 2014,89.8,87.7,93.9
+Ontario,March 2014,89.8,87.7,93.9
+Ontario,April 2014,90.2,88.3,93.9
+Ontario,May 2014,90.2,88.3,94.0
+Ontario,June 2014,90.4,88.7,94.0
+Ontario,July 2014,90.4,88.6,94.0
+Ontario,August 2014,90.7,89.0,94.0
+Ontario,September 2014,90.9,89.3,94.0
+Ontario,October 2014,91.0,89.3,94.1
+Ontario,November 2014,91.1,89.4,94.2
+Ontario,December 2014,91.2,89.6,94.3
+Ontario,January 2015,91.2,89.5,94.5
+Ontario,February 2015,91.4,89.8,94.5
+Ontario,March 2015,91.6,90.2,94.5
+Ontario,April 2015,91.8,90.4,94.5
+Ontario,May 2015,92.1,90.4,95.8
+Ontario,June 2015,92.6,90.9,96.2
+Ontario,July 2015,92.8,91.2,96.2
+Ontario,August 2015,93.3,91.8,96.4
+Ontario,September 2015,93.4,92.0,96.4
+Ontario,October 2015,93.8,92.4,96.6
+Ontario,November 2015,93.9,92.6,96.7
+Ontario,December 2015,94.1,92.8,96.7
+Ontario,January 2016,94.2,93.0,96.7
+Ontario,February 2016,94.6,93.6,96.6
+Ontario,March 2016,94.8,93.9,96.6
+Ontario,April 2016,95.3,94.6,96.8
+Ontario,May 2016,96.6,96.4,97.1
+Ontario,June 2016,97.0,96.8,97.4
+Ontario,July 2016,97.8,97.8,97.6
+Ontario,August 2016,98.2,98.4,97.6
+Ontario,September 2016,98.5,98.5,98.1
+Ontario,October 2016,99.5,99.6,99.1
+Ontario,November 2016,99.9,99.8,100.0
+Ontario,December 2016,100.0,100.0,100.0
+Ontario,January 2017,100.3,99.9,100.9
+Ontario,February 2017,101.1,100.6,102.0
+Ontario,March 2017,101.4,100.8,102.5
+Ontario,April 2017,103.0,102.3,104.5
+Ontario,May 2017,103.8,103.0,106.2
+Ontario,June 2017,103.9,103.1,106.3
+Ontario,July 2017,104.1,103.4,106.3
+Ontario,August 2017,104.2,103.5,106.4
+Ontario,September 2017,104.3,103.6,106.5
+Ontario,October 2017,104.4,103.8,106.5
+Ontario,November 2017,104.5,103.9,106.5
+Ontario,December 2017,104.5,103.9,106.5
+Ontario,January 2018,104.6,104.0,106.6
+Ontario,February 2018,104.3,103.4,106.6
+Ontario,March 2018,104.3,103.4,106.5
+Ontario,April 2018,104.1,103.2,106.5
+Ontario,May 2018,104.1,103.2,106.5
+Ontario,June 2018,104.2,103.3,106.5
+Ontario,July 2018,104.3,103.5,106.5
+Ontario,August 2018,104.4,103.7,106.5
+Ontario,September 2018,104.4,103.5,106.7
+Ontario,October 2018,104.5,103.5,106.8
+Ontario,November 2018,104.6,103.6,106.9
+Ontario,December 2018,104.6,103.7,106.9
+Ontario,January 2019,104.5,103.5,106.9
+Ontario,February 2019,104.5,103.5,106.9
+Ontario,March 2019,104.6,103.6,106.9
+Ontario,April 2019,104.6,103.6,106.9
+Ontario,May 2019,104.6,103.6,106.9
+Ontario,June 2019,104.7,103.8,107.0
+Ontario,July 2019,104.5,103.3,106.9
+Ontario,August 2019,104.5,103.3,107.0
+Ontario,September 2019,105.0,104.0,107.1
+Ontario,October 2019,105.2,104.2,107.2
+Ontario,November 2019,105.3,104.4,107.2
+Ontario,December 2019,105.5,104.7,107.2
+Ontario,January 2020,105.4,104.6,107.3
+Ontario,February 2020,105.9,105.4,107.3
+Ontario,March 2020,106.3,105.9,107.5
+Ontario,April 2020,106.4,106.0,107.5
+Ontario,May 2020,106.5,106.3,107.5
+Ontario,June 2020,106.7,106.4,107.7
+Ontario,July 2020,107.2,106.7,108.6
+Ontario,August 2020,107.7,107.4,109.0
+Ontario,September 2020,108.8,108.6,109.6
+Ontario,October 2020,109.5,109.7,109.9
+Ontario,November 2020,110.2,110.4,110.5
+Ontario,December 2020,110.8,111.2,110.8
+Ontario,January 2021,112.2,113.0,111.4
+Ontario,February 2021,113.7,114.0,113.9
+Ontario,March 2021,115.2,115.7,114.9
+Ontario,April 2021,117.4,118.3,116.3
+Ontario,May 2021,118.6,119.9,116.8
+Ontario,June 2021,119.3,120.7,117.1
+Ontario,July 2021,119.8,121.4,117.1
+Ontario,August 2021,121.1,122.9,117.8
+Ontario,September 2021,121.3,123.4,117.8
+Ontario,October 2021,122.8,125.1,118.8
+Ontario,November 2021,124.2,126.5,120.1
+Ontario,December 2021,124.4,126.9,120.1
+Ontario,January 2022,124.8,127.5,120.2
+Ontario,February 2022,125.6,128.5,120.4
+Ontario,March 2022,126.5,129.8,120.5
+Ontario,April 2022,126.8,130.3,120.5
+Ontario,May 2022,127.2,130.9,120.7
+Ontario,June 2022,127.5,131.2,120.7
+Ontario,July 2022,127.5,131.3,120.6
+Ontario,August 2022,127.6,131.3,120.8
+Ontario,September 2022,127.4,131.2,120.6
+Ontario,October 2022,127.4,131.2,120.5
+Ontario,November 2022,127.3,131.1,120.5
+Ontario,December 2022,127.3,131.0,120.5
+Ontario,January 2023,127.2,130.9,120.5
+Ontario,February 2023,126.8,130.3,120.4
+Manitoba,January 2012,88.1,88.1,87.8
+Manitoba,February 2012,88.4,88.6,87.8
+Manitoba,March 2012,89.0,88.9,88.8
+Manitoba,April 2012,89.3,89.3,88.8
+Manitoba,May 2012,89.4,89.5,88.8
+Manitoba,June 2012,90.0,89.7,90.5
+Manitoba,July 2012,90.2,90.0,90.5
+Manitoba,August 2012,90.4,90.2,90.6
+Manitoba,September 2012,90.9,90.6,91.3
+Manitoba,October 2012,91.2,91.1,91.3
+Manitoba,November 2012,91.6,91.5,91.5
+Manitoba,December 2012,92.4,91.7,93.4
+Manitoba,January 2013,93.2,91.8,96.2
+Manitoba,February 2013,93.3,91.9,96.3
+Manitoba,March 2013,93.6,92.2,96.3
+Manitoba,April 2013,94.2,93.1,96.3
+Manitoba,May 2013,94.6,93.8,96.3
+Manitoba,June 2013,94.8,94.0,96.3
+Manitoba,July 2013,94.9,94.3,96.3
+Manitoba,August 2013,95.0,94.3,96.3
+Manitoba,September 2013,95.0,94.4,96.3
+Manitoba,October 2013,95.0,94.4,96.3
+Manitoba,November 2013,95.0,94.4,96.3
+Manitoba,December 2013,95.1,94.5,96.3
+Manitoba,January 2014,95.6,94.5,97.9
+Manitoba,February 2014,95.7,94.7,97.9
+Manitoba,March 2014,95.8,94.7,97.9
+Manitoba,April 2014,96.0,95.1,97.9
+Manitoba,May 2014,96.1,95.2,97.9
+Manitoba,June 2014,96.3,95.4,98.1
+Manitoba,July 2014,96.3,95.4,98.1
+Manitoba,August 2014,96.3,95.4,98.1
+Manitoba,September 2014,95.9,94.9,98.2
+Manitoba,October 2014,96.1,95.0,98.2
+Manitoba,November 2014,96.1,95.0,98.2
+Manitoba,December 2014,96.0,95.0,98.2
+Manitoba,January 2015,96.2,95.3,98.2
+Manitoba,February 2015,96.3,95.4,98.2
+Manitoba,March 2015,96.6,95.8,98.4
+Manitoba,April 2015,96.7,95.9,98.4
+Manitoba,May 2015,96.8,96.0,98.4
+Manitoba,June 2015,97.2,96.2,99.5
+Manitoba,July 2015,97.3,96.3,99.5
+Manitoba,August 2015,97.3,96.3,99.5
+Manitoba,September 2015,97.5,96.6,99.5
+Manitoba,October 2015,97.6,96.8,99.5
+Manitoba,November 2015,97.7,96.9,99.5
+Manitoba,December 2015,97.7,97.0,99.5
+Manitoba,January 2016,97.9,97.2,99.5
+Manitoba,February 2016,97.9,97.2,99.5
+Manitoba,March 2016,98.1,97.5,99.5
+Manitoba,April 2016,98.3,97.8,99.5
+Manitoba,May 2016,98.5,98.1,99.5
+Manitoba,June 2016,98.7,98.4,99.5
+Manitoba,July 2016,98.9,98.6,99.5
+Manitoba,August 2016,99.0,98.9,99.5
+Manitoba,September 2016,99.4,99.2,99.8
+Manitoba,October 2016,99.9,99.9,99.8
+Manitoba,November 2016,100.0,100.0,100.0
+Manitoba,December 2016,100.0,100.0,100.0
+Manitoba,January 2017,100.3,100.5,100.0
+Manitoba,February 2017,100.5,100.7,100.0
+Manitoba,March 2017,100.5,100.8,100.0
+Manitoba,April 2017,101.3,101.8,100.0
+Manitoba,May 2017,101.8,102.6,100.1
+Manitoba,June 2017,102.2,103.0,100.5
+Manitoba,July 2017,102.3,103.2,100.5
+Manitoba,August 2017,102.6,103.6,100.5
+Manitoba,September 2017,102.9,104.1,100.6
+Manitoba,October 2017,103.0,104.2,100.6
+Manitoba,November 2017,103.2,104.4,100.8
+Manitoba,December 2017,103.3,104.5,100.8
+Manitoba,January 2018,103.3,104.6,100.8
+Manitoba,February 2018,103.4,104.6,100.8
+Manitoba,March 2018,103.5,104.7,100.8
+Manitoba,April 2018,103.5,104.7,101.0
+Manitoba,May 2018,103.7,105.0,101.0
+Manitoba,June 2018,103.9,105.3,101.2
+Manitoba,July 2018,104.0,105.3,101.2
+Manitoba,August 2018,104.1,105.4,101.2
+Manitoba,September 2018,104.1,105.4,101.6
+Manitoba,October 2018,104.4,105.7,101.7
+Manitoba,November 2018,104.4,105.7,101.7
+Manitoba,December 2018,104.3,105.6,101.7
+Manitoba,January 2019,104.5,105.9,101.7
+Manitoba,February 2019,104.5,105.9,101.7
+Manitoba,March 2019,104.7,106.2,101.7
+Manitoba,April 2019,104.8,106.2,101.7
+Manitoba,May 2019,104.6,106.1,101.5
+Manitoba,June 2019,104.4,105.7,101.5
+Manitoba,July 2019,104.7,106.2,101.5
+Manitoba,August 2019,104.7,106.2,101.5
+Manitoba,September 2019,104.9,106.5,101.7
+Manitoba,October 2019,105.0,106.6,101.7
+Manitoba,November 2019,104.7,106.2,101.7
+Manitoba,December 2019,105.1,106.7,101.7
+Manitoba,January 2020,105.3,106.5,102.9
+Manitoba,February 2020,105.5,106.7,102.9
+Manitoba,March 2020,105.5,106.7,102.9
+Manitoba,April 2020,105.6,106.9,102.9
+Manitoba,May 2020,105.5,106.7,102.9
+Manitoba,June 2020,105.8,107.3,102.9
+Manitoba,July 2020,106.0,107.4,102.9
+Manitoba,August 2020,106.9,108.3,104.0
+Manitoba,September 2020,108.7,110.8,104.0
+Manitoba,October 2020,108.8,110.7,104.6
+Manitoba,November 2020,109.1,111.2,104.6
+Manitoba,December 2020,109.1,111.0,104.9
+Manitoba,January 2021,110.4,112.9,104.9
+Manitoba,February 2021,112.3,115.3,105.7
+Manitoba,March 2021,113.5,116.9,105.8
+Manitoba,April 2021,116.8,122.3,104.3
+Manitoba,May 2021,122.7,129.9,106.3
+Manitoba,June 2021,125.0,133.0,107.8
+Manitoba,July 2021,125.4,133.7,107.8
+Manitoba,August 2021,126.6,135.2,108.1
+Manitoba,September 2021,126.8,135.5,108.1
+Manitoba,October 2021,128.9,138.6,108.1
+Manitoba,November 2021,129.7,139.7,108.1
+Manitoba,December 2021,133.3,144.1,110.0
+Manitoba,January 2022,135.2,146.7,110.2
+Manitoba,February 2022,136.5,148.9,110.2
+Manitoba,March 2022,141.1,155.0,110.4
+Manitoba,April 2022,142.4,156.9,110.6
+Manitoba,May 2022,143.6,158.6,110.6
+Manitoba,June 2022,143.6,158.6,110.6
+Manitoba,July 2022,143.6,158.6,110.6
+Manitoba,August 2022,143.6,158.6,110.6
+Manitoba,September 2022,143.6,158.6,110.6
+Manitoba,October 2022,142.6,157.2,110.8
+Manitoba,November 2022,142.6,157.2,110.8
+Manitoba,December 2022,142.2,156.6,110.8
+Manitoba,January 2023,140.4,153.8,110.8
+Manitoba,February 2023,140.6,154.2,110.8
+Saskatchewan,January 2012,97.4,99.6,91.6
+Saskatchewan,February 2012,98.2,100.0,93.4
+Saskatchewan,March 2012,98.2,99.9,93.4
+Saskatchewan,April 2012,98.7,100.3,94.3
+Saskatchewan,May 2012,98.9,100.5,94.5
+Saskatchewan,June 2012,99.0,100.6,94.5
+Saskatchewan,July 2012,99.0,100.6,94.5
+Saskatchewan,August 2012,99.0,100.6,94.5
+Saskatchewan,September 2012,99.0,100.6,94.5
+Saskatchewan,October 2012,99.0,100.6,94.5
+Saskatchewan,November 2012,99.0,100.7,94.5
+Saskatchewan,December 2012,99.1,100.7,94.8
+Saskatchewan,January 2013,99.1,100.7,94.8
+Saskatchewan,February 2013,99.5,101.2,95.1
+Saskatchewan,March 2013,100.1,101.5,96.5
+Saskatchewan,April 2013,100.4,101.6,97.0
+Saskatchewan,May 2013,100.4,101.7,97.0
+Saskatchewan,June 2013,100.8,102.2,97.0
+Saskatchewan,July 2013,100.6,102.0,97.0
+Saskatchewan,August 2013,100.9,102.3,97.1
+Saskatchewan,September 2013,100.9,102.3,97.1
+Saskatchewan,October 2013,101.5,102.9,97.5
+Saskatchewan,November 2013,101.6,103.1,97.5
+Saskatchewan,December 2013,101.6,103.1,97.5
+Saskatchewan,January 2014,102.6,104.1,98.5
+Saskatchewan,February 2014,102.7,104.2,98.5
+Saskatchewan,March 2014,102.6,104.1,98.4
+Saskatchewan,April 2014,102.5,103.9,98.5
+Saskatchewan,May 2014,102.6,104.1,98.6
+Saskatchewan,June 2014,102.7,104.1,98.8
+Saskatchewan,July 2014,102.6,104.0,98.8
+Saskatchewan,August 2014,102.6,103.9,99.0
+Saskatchewan,September 2014,102.5,103.8,99.0
+Saskatchewan,October 2014,102.5,103.8,99.0
+Saskatchewan,November 2014,102.5,103.8,98.9
+Saskatchewan,December 2014,102.4,103.7,98.9
+Saskatchewan,January 2015,102.4,103.7,98.9
+Saskatchewan,February 2015,102.3,103.5,98.9
+Saskatchewan,March 2015,102.1,103.3,98.9
+Saskatchewan,April 2015,101.7,102.7,98.9
+Saskatchewan,May 2015,102.1,103.2,98.9
+Saskatchewan,June 2015,101.8,102.8,98.9
+Saskatchewan,July 2015,102.1,103.2,98.9
+Saskatchewan,August 2015,102.0,103.1,99.0
+Saskatchewan,September 2015,101.6,102.4,99.1
+Saskatchewan,October 2015,101.3,102.0,99.1
+Saskatchewan,November 2015,101.0,101.6,99.1
+Saskatchewan,December 2015,101.1,101.8,99.2
+Saskatchewan,January 2016,101.0,101.6,99.2
+Saskatchewan,February 2016,100.8,101.3,99.3
+Saskatchewan,March 2016,100.6,101.0,99.3
+Saskatchewan,April 2016,100.3,100.7,99.3
+Saskatchewan,May 2016,100.2,100.5,99.4
+Saskatchewan,June 2016,100.1,100.3,99.5
+Saskatchewan,July 2016,100.0,100.2,99.5
+Saskatchewan,August 2016,99.8,99.6,100.0
+Saskatchewan,September 2016,99.8,99.7,100.0
+Saskatchewan,October 2016,99.8,99.7,100.0
+Saskatchewan,November 2016,99.7,99.6,100.0
+Saskatchewan,December 2016,100.0,100.0,100.0
+Saskatchewan,January 2017,99.9,99.9,99.9
+Saskatchewan,February 2017,100.0,100.0,100.0
+Saskatchewan,March 2017,100.0,100.0,100.1
+Saskatchewan,April 2017,100.0,100.1,100.1
+Saskatchewan,May 2017,99.8,99.8,99.9
+Saskatchewan,June 2017,99.6,99.5,99.9
+Saskatchewan,July 2017,99.6,99.5,99.9
+Saskatchewan,August 2017,99.7,99.6,99.9
+Saskatchewan,September 2017,99.5,99.3,100.0
+Saskatchewan,October 2017,99.5,99.4,100.0
+Saskatchewan,November 2017,99.1,98.7,100.0
+Saskatchewan,December 2017,99.1,98.7,100.0
+Saskatchewan,January 2018,99.1,98.8,100.0
+Saskatchewan,February 2018,98.6,98.1,100.0
+Saskatchewan,March 2018,98.6,98.0,100.0
+Saskatchewan,April 2018,98.9,98.3,100.6
+Saskatchewan,May 2018,98.7,97.8,100.6
+Saskatchewan,June 2018,98.5,97.6,100.6
+Saskatchewan,July 2018,98.6,97.8,100.6
+Saskatchewan,August 2018,98.4,97.5,100.6
+Saskatchewan,September 2018,98.2,97.1,100.8
+Saskatchewan,October 2018,98.1,96.9,100.8
+Saskatchewan,November 2018,97.9,96.7,100.8
+Saskatchewan,December 2018,97.7,96.3,100.8
+Saskatchewan,January 2019,97.6,96.2,100.8
+Saskatchewan,February 2019,97.6,96.0,101.0
+Saskatchewan,March 2019,97.6,96.0,101.0
+Saskatchewan,April 2019,96.9,95.1,101.0
+Saskatchewan,May 2019,96.8,94.9,101.0
+Saskatchewan,June 2019,96.8,94.9,101.1
+Saskatchewan,July 2019,96.7,94.7,101.1
+Saskatchewan,August 2019,96.5,94.4,101.1
+Saskatchewan,September 2019,96.7,94.7,101.1
+Saskatchewan,October 2019,96.8,94.8,101.2
+Saskatchewan,November 2019,96.0,93.7,101.2
+Saskatchewan,December 2019,96.2,93.9,101.2
+Saskatchewan,January 2020,95.5,93.2,100.6
+Saskatchewan,February 2020,95.3,92.9,100.5
+Saskatchewan,March 2020,95.1,92.7,100.7
+Saskatchewan,April 2020,95.0,92.6,100.7
+Saskatchewan,May 2020,95.1,92.8,100.7
+Saskatchewan,June 2020,95.0,92.6,100.6
+Saskatchewan,July 2020,94.8,92.7,99.7
+Saskatchewan,August 2020,95.0,92.9,99.7
+Saskatchewan,September 2020,94.8,92.7,99.6
+Saskatchewan,October 2020,95.3,93.3,99.8
+Saskatchewan,November 2020,95.2,93.3,99.8
+Saskatchewan,December 2020,95.5,93.6,99.7
+Saskatchewan,January 2021,95.9,94.3,99.8
+Saskatchewan,February 2021,96.2,94.6,99.8
+Saskatchewan,March 2021,97.5,96.3,100.0
+Saskatchewan,April 2021,97.9,96.8,100.0
+Saskatchewan,May 2021,100.4,100.4,99.8
+Saskatchewan,June 2021,102.2,102.7,100.2
+Saskatchewan,July 2021,103.0,103.9,100.2
+Saskatchewan,August 2021,103.0,103.8,100.0
+Saskatchewan,September 2021,102.4,103.0,100.0
+Saskatchewan,October 2021,102.8,103.4,100.5
+Saskatchewan,November 2021,102.9,103.5,100.4
+Saskatchewan,December 2021,103.3,104.1,100.7
+Saskatchewan,January 2022,103.8,104.8,100.8
+Saskatchewan,February 2022,104.1,105.1,100.8
+Saskatchewan,March 2022,104.9,106.1,101.1
+Saskatchewan,April 2022,105.7,107.1,101.3
+Saskatchewan,May 2022,105.8,107.3,101.3
+Saskatchewan,June 2022,106.2,107.8,101.3
+Saskatchewan,July 2022,106.1,107.7,101.3
+Saskatchewan,August 2022,106.7,112.7,97.1
+Saskatchewan,September 2022,106.9,112.6,97.7
+Saskatchewan,October 2022,106.9,112.7,97.6
+Saskatchewan,November 2022,106.5,112.2,97.5
+Saskatchewan,December 2022,106.2,111.7,97.5
+Saskatchewan,January 2023,106.2,111.8,97.5
+Saskatchewan,February 2023,105.5,111.1,96.8
+Alberta,January 2012,93.2,93.2,93.2
+Alberta,February 2012,93.2,93.1,93.4
+Alberta,March 2012,93.6,93.6,93.5
+Alberta,April 2012,93.7,93.8,93.8
+Alberta,May 2012,93.9,93.9,93.9
+Alberta,June 2012,94.1,94.2,94.1
+Alberta,July 2012,94.2,94.3,94.0
+Alberta,August 2012,94.2,94.4,93.9
+Alberta,September 2012,94.4,94.7,94.0
+Alberta,October 2012,94.6,94.9,94.1
+Alberta,November 2012,94.6,94.9,94.1
+Alberta,December 2012,94.9,95.4,94.1
+Alberta,January 2013,95.1,95.6,94.3
+Alberta,February 2013,95.6,96.1,94.6
+Alberta,March 2013,95.7,96.4,94.6
+Alberta,April 2013,96.1,96.9,94.7
+Alberta,May 2013,96.4,97.2,95.0
+Alberta,June 2013,96.7,97.5,95.4
+Alberta,July 2013,96.9,97.8,95.5
+Alberta,August 2013,97.3,98.2,95.8
+Alberta,September 2013,97.4,98.3,95.7
+Alberta,October 2013,97.4,98.4,95.7
+Alberta,November 2013,97.5,98.4,95.9
+Alberta,December 2013,97.6,98.6,95.9
+Alberta,January 2014,98.2,99.3,96.1
+Alberta,February 2014,98.7,100.0,96.2
+Alberta,March 2014,99.1,100.6,96.4
+Alberta,April 2014,99.3,100.7,96.7
+Alberta,May 2014,99.9,101.3,97.2
+Alberta,June 2014,100.0,101.5,97.3
+Alberta,July 2014,100.1,101.6,97.3
+Alberta,August 2014,100.5,101.8,98.0
+Alberta,September 2014,100.8,102.0,98.3
+Alberta,October 2014,100.8,102.2,98.3
+Alberta,November 2014,101.0,102.3,98.5
+Alberta,December 2014,101.1,102.4,98.5
+Alberta,January 2015,101.0,102.3,98.4
+Alberta,February 2015,101.0,102.3,98.6
+Alberta,March 2015,100.8,101.8,98.8
+Alberta,April 2015,100.6,101.6,98.7
+Alberta,May 2015,100.6,101.6,98.7
+Alberta,June 2015,100.6,101.3,99.2
+Alberta,July 2015,100.5,101.2,99.1
+Alberta,August 2015,100.5,101.2,99.1
+Alberta,September 2015,100.5,101.2,99.1
+Alberta,October 2015,100.7,101.5,99.1
+Alberta,November 2015,100.7,101.5,99.1
+Alberta,December 2015,100.7,101.5,99.1
+Alberta,January 2016,100.7,101.4,99.1
+Alberta,February 2016,100.4,101.2,98.9
+Alberta,March 2016,100.4,101.2,98.9
+Alberta,April 2016,100.4,101.2,98.9
+Alberta,May 2016,100.5,100.9,99.8
+Alberta,June 2016,100.0,100.2,99.7
+Alberta,July 2016,100.1,100.3,99.7
+Alberta,August 2016,100.0,100.2,99.7
+Alberta,September 2016,99.8,99.8,99.6
+Alberta,October 2016,99.7,99.7,99.7
+Alberta,November 2016,99.8,99.8,99.9
+Alberta,December 2016,100.0,100.0,100.0
+Alberta,January 2017,100.0,99.9,100.0
+Alberta,February 2017,100.0,100.0,99.8
+Alberta,March 2017,100.0,100.1,99.8
+Alberta,April 2017,99.9,100.0,99.7
+Alberta,May 2017,99.7,99.7,99.8
+Alberta,June 2017,99.6,99.6,99.7
+Alberta,July 2017,100.1,100.0,100.1
+Alberta,August 2017,100.1,100.1,100.1
+Alberta,September 2017,100.1,99.9,100.3
+Alberta,October 2017,100.1,100.0,100.3
+Alberta,November 2017,100.2,100.2,100.3
+Alberta,December 2017,100.1,100.0,100.3
+Alberta,January 2018,100.1,99.9,100.4
+Alberta,February 2018,99.8,99.4,100.4
+Alberta,March 2018,99.6,99.2,100.4
+Alberta,April 2018,99.6,99.1,100.4
+Alberta,May 2018,99.6,99.1,100.5
+Alberta,June 2018,99.8,99.3,100.6
+Alberta,July 2018,99.9,99.5,100.6
+Alberta,August 2018,99.4,98.9,100.5
+Alberta,September 2018,99.4,98.8,100.5
+Alberta,October 2018,99.3,98.7,100.5
+Alberta,November 2018,99.3,98.7,100.6
+Alberta,December 2018,99.4,98.8,100.6
+Alberta,January 2019,99.3,98.7,100.5
+Alberta,February 2019,99.2,98.6,100.5
+Alberta,March 2019,99.1,98.4,100.5
+Alberta,April 2019,98.8,97.9,100.5
+Alberta,May 2019,98.6,97.6,100.5
+Alberta,June 2019,98.0,96.8,100.5
+Alberta,July 2019,97.6,96.4,100.1
+Alberta,August 2019,97.7,96.4,100.2
+Alberta,September 2019,97.7,96.5,100.1
+Alberta,October 2019,97.5,96.1,100.1
+Alberta,November 2019,97.0,95.4,100.1
+Alberta,December 2019,97.2,95.7,100.1
+Alberta,January 2020,97.2,95.5,100.4
+Alberta,February 2020,97.4,95.8,100.5
+Alberta,March 2020,97.4,95.6,100.3
+Alberta,April 2020,97.2,95.3,100.1
+Alberta,May 2020,97.2,95.3,100.2
+Alberta,June 2020,97.1,95.2,100.0
+Alberta,July 2020,96.7,94.6,100.0
+Alberta,August 2020,96.7,94.5,100.0
+Alberta,September 2020,97.1,95.1,100.1
+Alberta,October 2020,97.4,95.5,100.4
+Alberta,November 2020,97.8,96.2,100.3
+Alberta,December 2020,97.7,96.1,100.2
+Alberta,January 2021,98.0,96.3,100.5
+Alberta,February 2021,98.8,97.5,100.6
+Alberta,March 2021,99.5,98.6,100.5
+Alberta,April 2021,101.0,100.9,100.5
+Alberta,May 2021,104.1,104.5,102.2
+Alberta,June 2021,106.2,107.6,102.4
+Alberta,July 2021,106.6,108.0,102.3
+Alberta,August 2021,106.5,107.8,102.4
+Alberta,September 2021,106.4,107.6,102.5
+Alberta,October 2021,106.4,107.6,102.4
+Alberta,November 2021,106.4,107.8,102.5
+Alberta,December 2021,106.8,108.2,102.8
+Alberta,January 2022,108.6,110.8,103.0
+Alberta,February 2022,112.2,115.7,103.7
+Alberta,March 2022,115.5,120.0,104.6
+Alberta,April 2022,116.7,121.8,104.8
+Alberta,May 2022,118.3,123.7,105.4
+Alberta,June 2022,118.4,123.9,106.0
+Alberta,July 2022,118.0,123.4,105.7
+Alberta,August 2022,118.2,123.7,105.9
+Alberta,September 2022,118.0,123.5,105.7
+Alberta,October 2022,117.7,123.0,105.7
+Alberta,November 2022,117.5,122.7,105.6
+Alberta,December 2022,117.4,122.7,105.6
+Alberta,January 2023,117.3,122.6,105.4
+Alberta,February 2023,116.9,122.2,105.1
+British Columbia,January 2012,96.3,95.0,99.2
+British Columbia,February 2012,96.2,94.7,99.2
+British Columbia,March 2012,96.0,94.4,99.1
+British Columbia,April 2012,96.0,94.3,99.1
+British Columbia,May 2012,96.0,94.3,99.2
+British Columbia,June 2012,96.1,94.4,99.3
+British Columbia,July 2012,96.1,94.4,99.3
+British Columbia,August 2012,96.0,94.4,99.3
+British Columbia,September 2012,95.9,94.1,99.3
+British Columbia,October 2012,96.1,94.4,99.3
+British Columbia,November 2012,95.7,93.9,99.3
+British Columbia,December 2012,95.4,93.4,99.3
+British Columbia,January 2013,95.3,93.3,99.3
+British Columbia,February 2013,95.4,93.4,99.3
+British Columbia,March 2013,95.2,93.2,99.3
+British Columbia,April 2013,95.3,93.3,99.3
+British Columbia,May 2013,95.1,93.0,99.3
+British Columbia,June 2013,94.9,92.7,99.3
+British Columbia,July 2013,95.1,92.9,99.3
+British Columbia,August 2013,94.8,92.5,99.3
+British Columbia,September 2013,94.8,92.5,99.2
+British Columbia,October 2013,94.6,92.2,99.2
+British Columbia,November 2013,94.5,92.0,99.2
+British Columbia,December 2013,94.3,91.8,99.2
+British Columbia,January 2014,94.3,91.8,99.2
+British Columbia,February 2014,94.3,91.8,99.2
+British Columbia,March 2014,94.2,91.6,99.2
+British Columbia,April 2014,93.9,91.2,99.2
+British Columbia,May 2014,93.7,90.9,99.2
+British Columbia,June 2014,93.6,90.8,99.2
+British Columbia,July 2014,93.5,90.6,99.2
+British Columbia,August 2014,93.7,90.9,99.2
+British Columbia,September 2014,93.7,90.8,99.2
+British Columbia,October 2014,94.0,91.3,99.2
+British Columbia,November 2014,93.8,91.1,99.2
+British Columbia,December 2014,93.8,91.0,99.2
+British Columbia,January 2015,93.6,90.9,99.2
+British Columbia,February 2015,93.6,90.9,99.2
+British Columbia,March 2015,93.6,90.9,99.2
+British Columbia,April 2015,94.2,91.7,99.2
+British Columbia,May 2015,94.2,91.9,99.2
+British Columbia,June 2015,94.4,92.2,99.2
+British Columbia,July 2015,94.7,92.7,99.2
+British Columbia,August 2015,94.7,92.8,99.2
+British Columbia,September 2015,95.1,93.3,99.2
+British Columbia,October 2015,95.3,93.7,99.2
+British Columbia,November 2015,95.8,94.3,99.2
+British Columbia,December 2015,95.9,94.5,99.2
+British Columbia,January 2016,96.3,95.0,99.2
+British Columbia,February 2016,97.1,96.2,99.2
+British Columbia,March 2016,97.4,96.8,99.2
+British Columbia,April 2016,97.7,97.1,99.2
+British Columbia,May 2016,98.8,98.8,99.2
+British Columbia,June 2016,99.2,99.1,99.2
+British Columbia,July 2016,99.7,99.9,99.2
+British Columbia,August 2016,99.7,99.9,99.2
+British Columbia,September 2016,100.0,100.3,99.5
+British Columbia,October 2016,100.3,100.3,100.0
+British Columbia,November 2016,100.0,100.0,100.0
+British Columbia,December 2016,100.0,100.0,100.0
+British Columbia,January 2017,99.9,99.7,100.4
+British Columbia,February 2017,100.0,99.7,100.7
+British Columbia,March 2017,100.5,100.2,101.5
+British Columbia,April 2017,101.5,100.9,102.7
+British Columbia,May 2017,103.4,102.9,103.0
+British Columbia,June 2017,104.7,104.9,103.0
+British Columbia,July 2017,106.5,107.7,103.0
+British Columbia,August 2017,106.6,107.8,103.0
+British Columbia,September 2017,107.3,108.2,104.4
+British Columbia,October 2017,107.6,108.7,104.4
+British Columbia,November 2017,107.6,108.7,104.4
+British Columbia,December 2017,107.8,108.7,104.7
+British Columbia,January 2018,107.8,108.7,104.7
+British Columbia,February 2018,107.8,108.7,104.7
+British Columbia,March 2018,107.9,108.9,104.8
+British Columbia,April 2018,107.9,108.9,104.8
+British Columbia,May 2018,107.9,108.9,104.8
+British Columbia,June 2018,108.0,109.1,104.8
+British Columbia,July 2018,107.9,108.9,104.8
+British Columbia,August 2018,107.8,108.5,104.8
+British Columbia,September 2018,108.0,109.0,104.8
+British Columbia,October 2018,108.0,109.0,104.8
+British Columbia,November 2018,107.8,108.7,104.8
+British Columbia,December 2018,107.7,108.4,104.8
+British Columbia,January 2019,107.6,108.4,104.8
+British Columbia,February 2019,107.4,108.0,104.8
+British Columbia,March 2019,107.4,108.0,104.8
+British Columbia,April 2019,107.2,107.5,105.0
+British Columbia,May 2019,106.9,106.9,105.1
+British Columbia,June 2019,106.8,106.8,105.3
+British Columbia,July 2019,106.4,106.3,105.1
+British Columbia,August 2019,106.4,106.3,105.1
+British Columbia,September 2019,106.0,106.1,104.5
+British Columbia,October 2019,105.8,105.7,104.5
+British Columbia,November 2019,105.3,104.5,104.8
+British Columbia,December 2019,105.7,104.8,105.2
+British Columbia,January 2020,105.5,104.2,106.3
+British Columbia,February 2020,105.9,104.5,106.5
+British Columbia,March 2020,106.3,105.1,106.8
+British Columbia,April 2020,106.3,105.0,106.8
+British Columbia,May 2020,106.3,105.1,106.8
+British Columbia,June 2020,106.4,105.1,106.8
+British Columbia,July 2020,107.2,105.6,108.0
+British Columbia,August 2020,108.1,107.0,108.5
+British Columbia,September 2020,110.2,109.7,109.2
+British Columbia,October 2020,111.5,111.6,109.8
+British Columbia,November 2020,111.8,112.0,110.2
+British Columbia,December 2020,111.9,111.9,110.4
+British Columbia,January 2021,112.3,112.2,110.7
+British Columbia,February 2021,116.3,115.3,112.5
+British Columbia,March 2021,117.2,116.3,113.1
+British Columbia,April 2021,118.9,115.4,117.3
+British Columbia,May 2021,120.0,117.4,117.4
+British Columbia,June 2021,119.7,118.4,115.5
+British Columbia,July 2021,120.3,118.9,115.9
+British Columbia,August 2021,120.8,119.7,116.1
+British Columbia,September 2021,121.9,121.0,116.8
+British Columbia,October 2021,123.3,122.6,117.6
+British Columbia,November 2021,124.0,123.7,117.8
+British Columbia,December 2021,124.1,123.9,117.9
+British Columbia,January 2022,126.2,126.3,118.6
+British Columbia,February 2022,127.0,126.7,119.7
+British Columbia,March 2022,127.7,127.6,120.2
+British Columbia,April 2022,127.9,127.8,120.6
+British Columbia,May 2022,128.0,127.9,120.6
+British Columbia,June 2022,128.1,127.9,120.8
+British Columbia,July 2022,128.7,128.3,121.5
+British Columbia,August 2022,128.7,128.3,121.5
+British Columbia,September 2022,128.7,128.3,121.5
+British Columbia,October 2022,127.8,127.6,120.4
+British Columbia,November 2022,127.7,127.5,120.3
+British Columbia,December 2022,127.6,127.4,120.2
+British Columbia,January 2023,127.1,126.8,119.9
+British Columbia,February 2023,126.8,126.4,119.8

@@ -1,10 +1,15 @@
-location
-AB
-BC
-MB
-NB
-NL
-ON
-PE
-QC
-SK
+location_key,province,province_fullname
+0,CA,Canada
+1,NL,Newfoundland and Labrador
+2,PE,Prince Edward Island
+3,NS,Nova Scotia
+4,NB,New Brunswick
+5,QC,Quebec
+6,ON,Ontario
+7,MB,Manitoba
+8,SK,Saskatchewan
+9,AB,Alberta
+10,BC,British Columbia
+11,YT,Yukon
+12,NT,Northwest Territories
+13,NU,Nunavut

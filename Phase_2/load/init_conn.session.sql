@@ -12,12 +12,12 @@ CREATE TABLE Regional_Weather_Summary(
     region_summ_key int UNIQUE NOT NULL,
     location_key int NOT NULL,
     date_key int NOT NULL,
-    Region_Max_Temp real NOT NULL,
-    Region_Min_Temp real NOT NULL,
-    Region_Mean_Temp real NOT NULL,
-    Region_Mean_Precip real NOT NULL,
-    Mean_Snow_Grnd_Last_Day real NOT NULL,
-    Region_Mean_Snow real NOT NULL
+    region_max_temp real NOT NULL,
+    region_min_temp real NOT NULL,
+    region_mean_temp real NOT NULL,
+    region_mean_precip real NOT NULL,
+    mean_snow_grnd_last_day real NOT NULL,
+    region_mean_snow real NOT NULL
 );
 
 DROP TABLE IF EXISTS Station_Summary;
@@ -25,13 +25,13 @@ CREATE TABLE Station_Summary(
     station_name text NOT NULL,
     date_key int NOT NULL,
     location_key int NOT NULL,
-    Max_Temp FLOAT NOT NULL,
-    Min_Temp FLOAT NOT NULL,
-    Mean_Temp FLOAT NOT NULL,
-    Total_Precip FLOAT NOT NULL,
-    Snow_Grnd_Last_Day FLOAT NOT NULL,
+    max_temp FLOAT NOT NULL,
+    min_temp FLOAT NOT NULL,
+    mean_temp FLOAT NOT NULL,
+    total_precip FLOAT NOT NULL,
+    snow_grnd_last_day FLOAT NOT NULL,
     total_snowfall FLOAT NOT NULL,
-    Date_Added DATE NOT NULL
+    date_added DATE NOT NULL
 );
 
 DROP TABLE IF EXISTS Date_Dimension;

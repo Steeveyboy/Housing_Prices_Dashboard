@@ -1,4 +1,4 @@
-region_summ_key,Region_Mean_Temp,Region_Max_Temp,Region_Min_Temp,Region_Mean_Precip,Region_Mean_Snow,Mean_Snow_Grnd_Last_Day,location_key,date_key
+region_summ_key,region_mean_temp,region_max_temp,region_min_temp,region_mean_precip,region_mean_snow,mean_snow_grnd_last_day,location_key,date_key
 0,-7.383402489626556,11.118672199170124,-34.67510373443984,10.042916666666667,10.7,7.191780821917808,9,0
 1,-6.802489626556017,7.707024793388429,-25.25435684647303,11.0075,17.42,11.261363636363637,9,1
 2,-1.0884773662551441,14.159259259259258,-19.236213991769546,19.47573221757322,26.26065573770492,4.768115942028985,9,2

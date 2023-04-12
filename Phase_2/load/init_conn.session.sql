@@ -52,7 +52,8 @@ CREATE TABLE Real_Estate_Dimension(
     house_price_index float not null,
     land_price_index float not null,
     date_key int not null,
-    location_key int not null
+    location_key int not null,
+    pct_change float
 );
 
 DROP TABLE IF EXISTS FactTable;
